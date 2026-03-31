@@ -135,6 +135,7 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 | https://github.com/yuban10703/chaoxingsign              | Python     | 超星学习通自动签到                   |
 
 
+666
 
 
 
